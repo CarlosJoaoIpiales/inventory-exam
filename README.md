@@ -36,3 +36,9 @@ git clone https://github.com/CarlosJoaoIpiales/inventory-exam.git
 cd nombre-del-directorio-del-proyecto
 
 # Instalar Dependencias
+npm install
+```
+
+# Configuracion de Firebase
+
+## No es necesario ninguna configuracion extra para este apartado debido a que la base de datos se enceuntra en la nube y enlazada a nuestra base de datos
